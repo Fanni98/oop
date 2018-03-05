@@ -29,7 +29,7 @@ public class piertek {
 		System.out.println("pi erteke: "+pi*4);
 		
 		//Faktorialis
-		
+			
 	}
 	
 
